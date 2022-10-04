@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "60dp"
+        "value": "10%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "90%"
     },
     "_margin_": [
         0,
@@ -29,40 +29,33 @@
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "10%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxFirstRow",
-        "flxSecondRow"
+        "lblDelete"
     ],
     "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "tablet",
-            "name": "CopyflxMenuItem0c5a7452a0b8544Controller"
-        }
-    },
     "enablescrolling": true,
-    "id": "CopyflxMenuItem0c5a7452a0b8544",
+    "id": "flxDelete",
     "info": null,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ae84285420144524b1ea21324c68f921",
-    "layouttype": 4,
+    "kuid": "e5d70e97a6fe4e23a41516cc62f81d78",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "tplMenuItem",
-    "pf": "tplMenuItem",
+    "parent": "CopyflxFoto0b0512f89925242",
+    "pf": "tplFoto",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

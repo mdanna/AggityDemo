@@ -21,14 +21,14 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "CopyflxMenuItem0e6b1b7df16fa4f"
+        "CopyflxFoto0b0512f89925242"
     ],
     "containerId": true,
     "containerweight": 100,
     "currentLocale": "default",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "id": "tplMenuItem",
+    "id": "tplFoto",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -37,7 +37,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "hd358b62c0ad4cfb990be457be02dad9",
+    "kuid": "cabbb362d17c47eb87f3d80f5f5fe22d",
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "outtransitionconfig": {

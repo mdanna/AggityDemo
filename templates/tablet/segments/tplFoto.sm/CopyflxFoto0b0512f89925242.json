@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "20dp"
+        "value": "300dp"
     },
     "_left_": {
         "type": "string",
@@ -35,21 +35,29 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "description"
+        "imgFoto",
+        "flxDelete"
     ],
     "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "CopyflxFoto0b0512f89925242Controller"
+        }
+    },
     "enablescrolling": true,
-    "id": "flxSecondRow",
+    "id": "CopyflxFoto0b0512f89925242",
     "info": null,
+    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f24ac50e023b4c79ac09617ec1f54166",
+    "kuid": "ed8dda7a19c9442789c7cec045402ed7",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "CopyflxMenuItem0e6b1b7df16fa4f",
-    "pf": "tplMenuItem",
+    "parent": "tplFoto",
+    "pf": "tplFoto",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
