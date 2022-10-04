@@ -1,0 +1,56 @@
+{
+    "classname": "DateField",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "ea2e25db050a421ca03ef0361938a7b6",
+                    "paramList": [],
+                    "propertyKey": "getDate",
+                    "pw": {
+                        "displayName": "getDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c97c88c840e648bea15d4fe8eb4b331f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "caf59d53bddd439d98eb4b8a0a84bfc4",
+                    "paramList": [],
+                    "propertyKey": "resetDate",
+                    "pw": {
+                        "displayName": "resetDate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "c97c88c840e648bea15d4fe8eb4b331f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hcl.demo.aggity",
+    "version": "1.0.0"
+}

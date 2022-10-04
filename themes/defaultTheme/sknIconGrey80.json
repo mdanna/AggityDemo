@@ -1,0 +1,97 @@
+{
+  "android": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "androidwearos": {
+    "font_name": "default",
+    "font_size": 80,
+    "isForked": false
+  },
+  "background_color": "6b6b6b00",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "fontSizeInPx": false,
+  "font_color": "808080ff",
+  "font_name": "iphoneSystem",
+  "font_size": 80,
+  "font_style": "normal",
+  "font_weight": "400",
+  "ipad": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "iphone": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "kuid": "seecd9b590804467ae79d1ea9dc5fe8c",
+  "spaan": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "spaandroidtablet": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "spaip": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "spaipad": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "spawindowstablet": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "spawinphone8": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "tabrcandroid": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_name": "System",
+    "font_size": 80,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  },
+  "winphone8": {
+    "font_name": "FontAwesome6Free-Solid",
+    "font_size": 80,
+    "isForked": false
+  }
+}

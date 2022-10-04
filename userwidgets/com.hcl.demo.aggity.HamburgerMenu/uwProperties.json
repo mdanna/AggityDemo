@@ -1,0 +1,65 @@
+{
+    "classname": "HamburgerMenu",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "ed3938172cb342f087f528c769e90a25",
+                    "paramList": [
+                        {
+                            "name": "open"
+                        },
+                        {
+                            "name": "skipAnimation"
+                        }
+                    ],
+                    "propertyKey": "toggle",
+                    "pw": {
+                        "displayName": "toggle",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b33734a52d414eef9472ecc3db3cce4f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "a6e8797f70954b5da715590891f84292",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onItemSelected",
+                    "pw": {
+                        "displayName": "onItemSelected",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b33734a52d414eef9472ecc3db3cce4f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hcl.demo.aggity",
+    "version": "1.0.0"
+}

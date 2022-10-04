@@ -1,0 +1,114 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": false,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": 0,
+    "focuseditem": {},
+    "generatedtemplate": "geb2803a4c1e4977b7eb818732580e63",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segFotos",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ed56bce66d31442490cda539f764bea0",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxFotos",
+    "pf": "frmIncidencias",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "geb2803a4c1e4977b7eb818732580e63",
+    "rowcounter": 9,
+    "rowfocusskin": "s479db614fde4e60800dc02a0e64fc0e",
+    "rowskin": "sd5de893cb0a40229ede204bd5a633e4",
+    "rowtemplate": "FBox0aab92e58b8e54c",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa964f5fbd724a3f8a08c005afd61f1c",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": [
+        0,
+        0
+    ],
+    "selectedindices": null,
+    "selecteditems": {},
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1112,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {},
+    "zindex": 1
+}

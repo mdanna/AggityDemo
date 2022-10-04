@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "172dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s190f53bbc424ea284f4060dfe2fd55d",
+    "_text_": "Guardar",
+    "_top_": {
+        "type": "string",
+        "value": "29dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "32%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "83.50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s190f53bbc424ea284f4060dfe2fd55d",
+    "id": "buttonGuardar",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f10d9ee856e54f2f9f1ecf8941c6c4ff",
+    "name": "kony.ui.Button",
+    "parent": "flxButtons",
+    "pf": "frmIncidencias",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

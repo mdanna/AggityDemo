@@ -1,0 +1,90 @@
+{
+    "classname": "LabelHeaderSort",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "none",
+                    "group": "General",
+                    "kuid": "i782219c5aee4647a26dd4ed2e2de543",
+                    "originalPropertyKey": "sortOrder",
+                    "propertyIndex": 2,
+                    "propertyKey": "sortOrder",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "sortOrder",
+                        "uiRepresentation": "Label-Combobox"
+                    },
+                    "srcWgtKUID": "d70b7cd82e2b433c96cfe5a5b96deb00",
+                    "type": "list selector",
+                    "value": [
+                        "asc",
+                        "desc",
+                        "none"
+                    ]
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "",
+                    "group": "General",
+                    "kuid": "hcb1d1af0d0740f0aec001bbcd93def0",
+                    "originalPropertyKey": "key",
+                    "propertyIndex": 3,
+                    "propertyKey": "key",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "key",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "d70b7cd82e2b433c96cfe5a5b96deb00",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g03ebaaa6cc84316add076443ac110fd",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "title",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "title",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblTitle",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "d91860b5b3d2428c88a7200b1ff3ace5"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hcl.demo.otero",
+    "version": "1.0.0"
+}

@@ -1,0 +1,128 @@
+{
+    "classname": "HemburgerMenuItem",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "b4199f5c480a432ea750cb050fe492c4",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onSelected",
+                    "pw": {
+                        "displayName": "onSelected",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a9810f4c48504ce79179f48ee89457bd",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e0f204e5f48a4e8f84fe216a8ac49663",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 1,
+                    "propertyKey": "icon",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "icon",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblLeftIcon",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "b946934685a041b8b602e220458d888d"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a9431e8afd904059a3c181442ab5e103",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "key",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "key",
+                        "isHiddenInTool": false,
+                        "srcWidget": "key",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "jf9af40e7643453fb73b8c9be3fa3eb8"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "jc82423853414187a1059f52ba3a1aef",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 3,
+                    "propertyKey": "item",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "item",
+                        "isHiddenInTool": false,
+                        "srcWidget": "item",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "cc8bf82b005140eb8d88a21378f6ed7e"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b5772562e55e4e04a73d78f3a7c8d641",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 4,
+                    "propertyKey": "description",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "description",
+                        "isHiddenInTool": false,
+                        "srcWidget": "description",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "cfb574b7d7124976841b5928e35499e7"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "comhcl.demo.aggity",
+    "version": "1.0.0"
+}

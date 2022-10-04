@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s75714f6dbbe4fe680ef6ea82ac7df2e",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "key": "causa",
+        "title": "Causa"
+    },
+    "id": "headerCausa",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "be53354eec9e4180afbd6d929e3280f3",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHeaderIncidencias",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "d70b7cd82e2b433c96cfe5a5b96deb00",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}
