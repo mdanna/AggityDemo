@@ -481,7 +481,7 @@
             "READ_HISTORY_BOOKMARKS": "false",
             "READ_INPUT_STATE": "false",
             "READ_LOGS": "false",
-            "READ_PHONE_STATE": "false",
+            "READ_PHONE_STATE": "true",
             "READ_SMS": "false",
             "READ_SYNC_SETTINGS": "false",
             "READ_SYNC_STATS": "false",
@@ -697,7 +697,7 @@
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
     "support32bit": "false",
     "support64bitandwear": "false",
-    "supportX86Devices": "false",
+    "supportX86Devices": "true",
     "supportX86Devicesandwear": "false",
     "tabletstartupformkey": "fbee41d7898044cc800d2f8fdce3160c",
     "tags": {
