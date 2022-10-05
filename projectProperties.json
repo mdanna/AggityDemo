@@ -520,7 +520,7 @@
             "WRITE_APN_SETTINGS": "false",
             "WRITE_CALENDAR": "false",
             "WRITE_CONTACTS": "false",
-            "WRITE_EXTERNAL_STORAGE": "false",
+            "WRITE_EXTERNAL_STORAGE": "true",
             "WRITE_GSERVICES": "false",
             "WRITE_HISTORY_BOOKMARKS": "false",
             "WRITE_SECURE_SETTINGS": "false",
